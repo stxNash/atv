@@ -1,0 +1,14 @@
+C:\Users\viniciusborba\Documents\pasta1\bin\Debug\net7.0\pasta1.exe
+C:\Users\viniciusborba\Documents\pasta1\bin\Debug\net7.0\pasta1.deps.json
+C:\Users\viniciusborba\Documents\pasta1\bin\Debug\net7.0\pasta1.runtimeconfig.json
+C:\Users\viniciusborba\Documents\pasta1\bin\Debug\net7.0\pasta1.dll
+C:\Users\viniciusborba\Documents\pasta1\bin\Debug\net7.0\pasta1.pdb
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.AssemblyInfoInputs.cache
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.AssemblyInfo.cs
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.csproj.CoreCompileInputs.cache
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.dll
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\refint\pasta1.dll
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.pdb
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\pasta1.genruntimeconfig.cache
+C:\Users\viniciusborba\Documents\pasta1\obj\Debug\net7.0\ref\pasta1.dll
