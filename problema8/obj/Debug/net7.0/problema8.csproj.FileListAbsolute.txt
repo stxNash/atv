@@ -1,0 +1,14 @@
+C:\Users\viniciusborba\Documents\problema8\bin\Debug\net7.0\problema8.exe
+C:\Users\viniciusborba\Documents\problema8\bin\Debug\net7.0\problema8.deps.json
+C:\Users\viniciusborba\Documents\problema8\bin\Debug\net7.0\problema8.runtimeconfig.json
+C:\Users\viniciusborba\Documents\problema8\bin\Debug\net7.0\problema8.dll
+C:\Users\viniciusborba\Documents\problema8\bin\Debug\net7.0\problema8.pdb
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.AssemblyInfoInputs.cache
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.AssemblyInfo.cs
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.csproj.CoreCompileInputs.cache
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.dll
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\refint\problema8.dll
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.pdb
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\problema8.genruntimeconfig.cache
+C:\Users\viniciusborba\Documents\problema8\obj\Debug\net7.0\ref\problema8.dll
