@@ -1,0 +1,14 @@
+C:\Users\viniciusborba\Documents\problema6\bin\Debug\net7.0\problema6.exe
+C:\Users\viniciusborba\Documents\problema6\bin\Debug\net7.0\problema6.deps.json
+C:\Users\viniciusborba\Documents\problema6\bin\Debug\net7.0\problema6.runtimeconfig.json
+C:\Users\viniciusborba\Documents\problema6\bin\Debug\net7.0\problema6.dll
+C:\Users\viniciusborba\Documents\problema6\bin\Debug\net7.0\problema6.pdb
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.AssemblyInfoInputs.cache
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.AssemblyInfo.cs
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.csproj.CoreCompileInputs.cache
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.dll
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\refint\problema6.dll
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.pdb
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\problema6.genruntimeconfig.cache
+C:\Users\viniciusborba\Documents\problema6\obj\Debug\net7.0\ref\problema6.dll
